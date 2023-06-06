@@ -1,0 +1,2 @@
+rootProject.name = "YinDao"
+include ':app'
